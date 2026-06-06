@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    EquiShare logo — converted from the original SVG.
+    viewportWidth/Height match the source viewBox (118.09 x 117.78).
+    All translate(-0.51 -0.63) offsets from the SVG <path> elements have been
+    pre-applied to the coordinates so we don't need a wrapping <group>.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="118.09"
+    android:viewportHeight="117.78">
+
+    <!-- ─────────────── Outer quadrants — dark green #0F8B59 ─────────────── -->
+    <path
+        android:fillColor="#0F8B59"
+        android:pathData="M55.74,0.02 V55.76 H0 A59,59 0 0 1 55.74,0.02 Z" />
+    <path
+        android:fillColor="#0F8B59"
+        android:pathData="M55.74,62.02 v55.74 A59,59 0 0 1 0,62.02 Z" />
+    <path
+        android:fillColor="#0F8B59"
+        android:pathData="M118.09,62.02 a59.06,59.06 0 0 1 -56.09,55.76 V62.02 Z" />
+    <path
+        android:fillColor="#0F8B59"
+        android:pathData="M62,55.76 V0 A59.06,59.06 0 0 1 118.09,55.76 Z" />
+
+    <!-- ─────────────── Inner quadrants — TL & BR medium green #3BB078 ───── -->
+    <path
+        android:fillColor="#3BB078"
+        android:pathData="M55.74,6.02 V55.76 H6.02 A53,53 0 0 1 55.74,6.02 Z" />
+    <path
+        android:fillColor="#3BB078"
+        android:pathData="M112.07,62.02 a53.06,53.06 0 0 1 -50.07,49.76 V62.02 Z" />
+
+    <!-- ─────────────── Inner quadrants — BL & TR light green #90CAA6 ───── -->
+    <path
+        android:fillColor="#90CAA6"
+        android:pathData="M6.02,62.02 H55.74 v49.74 A53,53 0 0 1 6.02,62.02 Z" />
+    <path
+        android:fillColor="#90CAA6"
+        android:pathData="M112.07,55.76 H62 V6 A53,53 0 0 1 112.07,55.76 Z" />
+
+    <!-- ─────────────── Diagonal TL → BR — light-green stroke (8 px) ─────── -->
+    <path
+        android:pathData="M38.29,39.62 L79.09,79.13"
+        android:strokeColor="#90CAA6"
+        android:strokeWidth="8" />
+
+    <!-- ─────────────── Diagonal BL → TR — medium-green stroke (7 px) ────── -->
+    <path
+        android:pathData="M40.79,79.71 L79.19,39.62"
+        android:strokeColor="#3BB078"
+        android:strokeWidth="7" />
+
+    <!-- ─────────────── Arrow tips — light green #90CAA6 ─────────────────── -->
+    <path
+        android:fillColor="#90CAA6"
+        android:pathData="M31.7,52.13 L24.26,26.05 L50.57,32.64 Z" />
+    <path
+        android:fillColor="#90CAA6"
+        android:pathData="M66.81,86.12 L93.11,92.71 L85.67,66.63 Z" />
+
+    <!-- ─────────────── Arrow tips — medium green #3BB078 ────────────────── -->
+    <path
+        android:fillColor="#3BB078"
+        android:pathData="M51.76,85.42 L28.97,92.05 L34.62,69 Z" />
+    <path
+        android:fillColor="#3BB078"
+        android:pathData="M85.36,50.34 L91,27.29 L68.22,33.92 Z" />
+</vector>

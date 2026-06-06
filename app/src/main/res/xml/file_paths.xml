@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Paths exposed by `${applicationId}.fileprovider` so the camera app can write
+    captured images into the app's private cache. Only files under
+    `cache/camera/` are shared; everything else stays inaccessible.
+-->
+<paths>
+    <cache-path
+        name="camera_images"
+        path="camera/" />
+</paths>
