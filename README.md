@@ -8,6 +8,6 @@ EquiShare non è solo un semplice "split bill app", ma integra funzionalità ava
 - grafici sulle spese;
 - notifiche intelligenti;
 
-L'obiettivo è rendere la gestione delle spese di gruppo semplice, trasparente e anche divertente.
+L'obiettivo è rendere la gestione delle spese di gruppo semplice e trasparente
 
 ---
