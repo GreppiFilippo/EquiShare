@@ -79,7 +79,7 @@
              notification payload. -->
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_icon"
-            android:resource="@drawable/equishare_logo" />
+            android:resource="@drawable/ic_stat_name" />
         <!-- Default channel for FCM-rendered notifications (used only when we
              accidentally send a "notification" payload instead of pure data). -->
         <meta-data
